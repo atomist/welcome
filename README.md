@@ -1,0 +1,2 @@
+# welcome
+Introduction to Atomist
