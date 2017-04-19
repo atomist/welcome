@@ -9,9 +9,10 @@ information.
 [docs]: http://docs.atomist.com/
 
 This GitHub organization contains Atomist's open source software,
-including the [Rug runtime][rug] and the [Rug CLI][cli].  If you are
-interested in contributing to the Atomist open source projects, please
-see our [contributing guidelines][contrib] and
+including the [Rug runtime][rug], the [Rug CLI][cli], and core Rugs,
+the code powering Atomist automation.  If you are interested in
+contributing to the Atomist open source projects, please see
+our [contributing guidelines][contrib] and
 our [code of conduct][code].
 
 [rug]: https://github.com/atomist/rug
