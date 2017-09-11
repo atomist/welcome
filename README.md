@@ -1,4 +1,4 @@
-# Welcome to Atomist!
+![Welcome to Atomist](images/atomist.png)
 
 [Atomist][atomist] is a development automation platform that provides
 developers with timely, actionable information to speed the delivery

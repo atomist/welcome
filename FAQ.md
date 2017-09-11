@@ -1,4 +1,4 @@
-## Atomist Open Source FAQ
+# Atomist Open Source FAQ
 
 We want the Atomist open source projects to be used as broadly as
 possible, by as many people as possible. We also want these projects
@@ -13,7 +13,7 @@ desire and need for open access to technologies like Rug.
 
 [spring]: https://en.wikipedia.org/wiki/Spring_Framework (Spring Framework)
 
-### What does the GPL licensing mean to me as a user?
+## What does the GPL licensing mean to me as a user?
 
 While most Atomist-created "Rugs" are licensed under
 the [Apache License, Version 2.0][asl], the Rug and Rug-related open
@@ -33,7 +33,7 @@ it embodies the free and open access we intend for Rug.
 [gpl]: https://github.com/atomist/rug/blob/master/LICENSE (Rug License)
 [cp]: #what-is-the-classpath-exception
 
-### What is the "Classpath Exception"
+## What is the "Classpath Exception"
 
 If you haven't seen it before, we inlcude the classpath exception to
 clarify that code you write in Rug, that "links" to any of the Rug
@@ -46,7 +46,7 @@ originally [introduced in Java SE/EE][cpe] for the same purpose.
 
 [cpe]: https://en.wikipedia.org/wiki/GPL_linking_exception#The_classpath_exception (Classpath Exception)
 
-### How can I contribute?
+## How can I contribute?
 
 Thanks for considering contributing to Atomist open source projects!
 Please see the Contribution Guidelines in the specific Rug repository
@@ -54,7 +54,7 @@ you're considering contributing to, e.g., [CONTRIBUTING][contrib].
 
 [contrib]: CONTRIBUTING.md (Contributing to Atomist Open Source Projects)
 
-### How do I report bugs?
+## How do I report bugs?
 
 If you think you have found a bug in an Atomist open source project,
 you can either head over to the [Atomist Community Slack][slack]
@@ -69,7 +69,7 @@ creating an issue.
 
 [slack]: https://join.atomist.com (Atomist Community Slack)
 
-### How do I report bad behavior?
+## How do I report bad behavior?
 
 We strive to foster a diverse and welcoming community at Atomist, both
 in our company and our larger community. We provide what we hope is a
@@ -81,7 +81,7 @@ at [code-of-conduct@atomist.com][email].
 [conduct]: CODE_OF_CONDUCT.md (Atomist Code of Conduct)
 [email]: mailto:code-of-conduct@atomist.com
 
-### Other Questions?
+## Other Questions?
 
 We'll continue updating this document as new questions come in. Please
 join the [Atomist Community Slack][slack] to search and post questions
