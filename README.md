@@ -1,9 +1,9 @@
 ![Welcome to Atomist](images/atomist.png)
 
-Welcome and thank for checking out [Atomist][atomist]! Atomist is a
-development automation platform that provides developers with timely,
-actionable information to speed the delivery of great software.  See
-the [Atomist documentation][docs] for more information.
+Welcome and thank you for checking out [Atomist][atomist]! Atomist is
+a development automation platform that provides developers with
+timely, actionable information to speed the delivery of great
+software.  See the [Atomist documentation][docs] for more information.
 
 [atomist]: https://www.atomist.com/
 [docs]: http://docs.atomist.com/
