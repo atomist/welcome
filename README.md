@@ -1,9 +1,9 @@
 ![Welcome to Atomist](images/atomist.png)
 
-[Atomist][atomist] is a development automation platform that provides
-developers with timely, actionable information to speed the delivery
-of great software.  See the [Atomist documentation][docs] for more
-information.
+Welcome and thank for checking out [Atomist][atomist]! Atomist is a
+development automation platform that provides developers with timely,
+actionable information to speed the delivery of great software.  See
+the [Atomist documentation][docs] for more information.
 
 [atomist]: https://www.atomist.com/
 [docs]: http://docs.atomist.com/
@@ -32,4 +32,25 @@ If you are interested in learning more about Atomist, please
 [composition]: https://the-composition.com/ (Atomist Blog - The Composition)
 [twitter]: https://twitter.com/atomist (@atomist - Twitter)
 
+You can also check out some examples of development automation using
+Rugs in the [rug-rugs][], [github-rugs][], and [spring-rugs][]
+repositories.
+
+[rug-rugs]: https://github.com/atomist/rug-rugs (Atomist rug-rugs)
+[github-rugs]: https://github.com/atomist/github-rugs (Atomist github-rugs)
+[spring-rugs]: https://github.com/atomist/spring-rugs (Atomist spring-rugs)
+
 We sincerely hope you enjoy using Atomist!
+
+## Support
+
+If you need help using Atomist or have questions, the best place to
+ask is the `#support` channel in the [Atomist Community Slack][slack].
+If you have specific questions about one of the Atomist open source
+projects, e.g., you need to report a bug or would like to request a
+feature, feel free to open an issue in the repository for that
+project.  If you're not sure where to create an issue or how to
+connect to the Atomist Community Slack, go ahead
+and [open an issue][issue] right in this repository.
+
+[issue]: https://github.com/atomist/welcome/issues/new (Open an issue in atomist/welcome)
