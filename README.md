@@ -36,6 +36,11 @@ the [automation-client-samples-ts][samples] repository.
 
 [samples]: https://github.com/atomist/automation-client-samples-ts (Atomist Automation Samples - TypeScript)
 
+If you are looking for a retired Atomist open source project, they can
+be found in the [atomist-attic][attic] organization.
+
+[attic]: https://github.com/atomist-attic (Atomist Attic)
+
 We sincerely hope you enjoy using Atomist!
 
 ## Support
