@@ -13,7 +13,7 @@ your Slack team.
 
 <div style="text-align:center;">
   <a href="https://atm.st/2wiDlUe" onclick="trackOutboundLink('https://atm.st/2wiDlUe'); return false;" target="_blank">
-    <img alt="Add to Slack" height="50" width="174" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" />
+    <img alt="Add to Slack" height="50" width="174" src="https://platform.slack-edge.com/images/add_to_slack.png" srcset="https://platform.slack-edge.com/images/add_to_slack.png 1x, https://platform.slack-edge.com/images/add_to_slack@2x.png 2x" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@ an "Approved Apps" setting to control this.
 
 [manage-permissions]: https://slack.com/apps/manage/permissions
 
-![Slack Approved Apps](img/ApprovedApps.png)
+![Slack Approved Apps](images/ApprovedApps.png)
 
 If your team requires approval for new apps and you're not a Slack
 administrator, Slack helps you request approval from your Slack team's
@@ -97,7 +97,7 @@ When the Atomist bot first arrives in a team, it will send a direct
 message to the authorizing user, requesting that they authorize
 Atomist to access GitHub on their behalf.
 
-![GitHub Authorization](img/github-auth.png)
+![GitHub Authorization](images/github-auth.png)
 
 This same dialog will be shown to users anytime Atomist detects that
 an automation needs to access GitHub as that user.  Every user on the
@@ -129,16 +129,16 @@ be prompted to authorize a new scope (Atomist only asks for new scopes
 when explicitly required).  The *admin:org_hook* is required when
 enrolling a new GitHub organization.
 
-![GitHub Authorize Organization Webhook](img/authorize-org-hook.png)
+![GitHub Authorize Organization Webhook](images/authorize-org-hook.png)
 
 If you are a member of more than one GitHub organization, Atomist will
 ask you to choose which organization to enroll.
 
-![Choose GitHub Organization](img/choose-org.png)
+![Choose GitHub Organization](images/choose-org.png)
 
 Finally, you will be presented with a button to configure the organization webhook.
 
-![Install GitHub Webhook](img/install-webhook.png)
+![Install GitHub Webhook](images/install-webhook.png)
 
 [owners]: https://help.github.com/articles/permission-levels-for-an-organization/
 
@@ -157,7 +157,7 @@ skipped if there is only one valid choice (your user account).  Next the bot
 asks you to select the repository to receive the new webhook.
 
 <div style="text-align:center;">
-  <img alt="Choose GitHub Repository" height="137" width="528" src="img/choose-repo.png" />
+  <img alt="Choose GitHub Repository" height="137" width="528" src="images/choose-repo.png" />
 </div>
 
 ## Linking Slack & GitHub
