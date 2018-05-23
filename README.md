@@ -43,9 +43,9 @@ If you are interested in learning more about Atomist, please
 [twitter]: https://twitter.com/atomist (@atomist - Twitter)
 
 You can also check out an example of a SDM in the
-[samples-sdm][sample-sdm] repository.
+[sample-sdm][sample-sdm] repository.
 
-[sample-sdm]: https://github.com/atomist/samples-sdm (Atomist Sample SDM)
+[sample-sdm]: https://github.com/atomist/sample-sdm (Atomist Sample Software Delivery Machine)
 
 If you are looking for a retired Atomist open source project, they can
 be found in the [atomist-attic][attic] organization.
