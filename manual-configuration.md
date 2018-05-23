@@ -1,4 +1,4 @@
-# Manually Configuring the SDM
+# Manually Configuring an SDM
 
 Locally, we recommend using `atomist config` to [configure your
 SDM][sdm-configure], but if you prefer to manually configure your SDM,

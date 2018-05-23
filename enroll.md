@@ -59,11 +59,12 @@ Once you do that, the Atomist bot will greet you and walk you through
 linking channels to GitHub repositories for notifications.  You can
 also run chat commands in any channel if you `/invite @atomist`.
 
-![Atomist Bot Message][bot-message]
+<p align="center">
+ <img alt="Atomist Bot Message" height="232" width="595" src="https://raw.githubusercontent.com/atomist/welcome/master/images/bot-message.png" />
+</p>
 
 [slackhq]: https://slack.com/ (Slack)
 [slack-team]: https://slack.com/get-started#create (Create a Slack Team)
-[bot-message]: images/bot-message.png (Atomist Bot Message)
 
 <!-- TODO: invite your friends -->
 
@@ -74,7 +75,9 @@ Delivery Machine: type `@atomist create sdm` in Slack.  See the
 [running an SDM][run] documentation to learn how to run your own Software
 Delivery machine!
 
-![Software Delivery Machine Lifecycle][sdm-lifecycle]
+![][sdm-lifecycle]
+<p align="center">
+ <img alt="Software Delivery Machine Lifecycle" height="839" width="541" src="https://raw.githubusercontent.com/atomist/welcome/master/images/sdm.png" />
+</p>
 
 [run]: run.md (Atomist - Running a Software Delivery Machine)
-[sdm-lifecycle]: images/sdm.png (Atomist Software Delivery Machine Lifecycle Message)

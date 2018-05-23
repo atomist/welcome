@@ -1,4 +1,4 @@
-# Atomist Software Delivery Machine
+# Running an Atomist Software Delivery Machine
 
 An Atomist [Software Delivery Machine][sdm] is a development process
 in a box.  An SDM automates all steps in the flow from commit to
@@ -10,7 +10,9 @@ software delivery flow.  It is a Node.js package that uses the
 [@atomist/automation-client][automation-client] to connect to the
 Atomist API.
 
-Run it yourself and make magic happen for your team!
+Run it yourself and make magic happen for your team!  The instructions
+below will work for most basic SDMs and more low-level Atomist API
+clients.
 
 [sdm]: https://github.com/atomist/sdm (Atomist Software Delivery Machine Node.js Package)
 [automation-client]: https://github.com/atomist/automation-client-ts (Atomist Automation Client Node.js Package)
@@ -19,7 +21,7 @@ Run it yourself and make magic happen for your team!
 
 Before you can run your own Atomist SDM, you need a few prerequisites.
 
-### Atomist Workspace
+### Atomist workspace
 
 You must have an Atomist workspace.  If you do not already have one,
 you can create one following the instructions in the [getting
