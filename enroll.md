@@ -75,9 +75,8 @@ Delivery Machine: type `@atomist create sdm` in Slack.  See the
 [running an SDM][run] documentation to learn how to run your own Software
 Delivery machine!
 
-![][sdm-lifecycle]
 <p align="center">
- <img alt="Software Delivery Machine Lifecycle" height="839" width="541" src="https://raw.githubusercontent.com/atomist/welcome/master/images/sdm.png" />
+ <img alt="Software Delivery Machine Lifecycle" height="833" width="541" src="https://raw.githubusercontent.com/atomist/welcome/master/images/sdm.png" />
 </p>
 
 [run]: run.md (Atomist - Running a Software Delivery Machine)
