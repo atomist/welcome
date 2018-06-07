@@ -21,7 +21,7 @@ automations, and useful Node.js modules.
 If you want to start using Atomist, see the [getting
 started][enrollment] documentation.
 
-[enrollment]: enroll.md (Atomist - Getting Started)
+[enrollment]: https://docs.atomist.com/user/ (Atomist User Documentation)
 
 If you are interested in contributing to the Atomist open source
 projects, please see our [contributing guidelines][contrib] and our
