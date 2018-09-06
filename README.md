@@ -11,12 +11,12 @@ software.  See the [Atomist documentation][docs] for more information.
 [docs]: http://docs.atomist.com/
 
 This GitHub organization contains Atomist's open source software,
-including the Atomist [Software Delivery Machine (SDM)][sdm] and
-[automation-client][client] Node.js packages, sample SDMs & other
-automations, and useful Node.js modules.
+including the Atomist [Software Delivery Machine (SDM)][sdm] Node.js
+package, the [CLI][cli], sample SDMs & other automations, and useful
+Node.js modules.
 
 [sdm]: https://github.com/atomist/sdm (Atomist Software Delivery Machine Node.js Package)
-[client]: https://github.com/atomist/automation-client-ts (Atomist Automation Client - TypeScript)
+[cli]: https://github.com/atomist/cli (Atomist Command Line Interface CLI)
 
 If you want to start using Atomist, see the [getting
 started][enrollment] documentation.
@@ -41,11 +41,6 @@ If you are interested in learning more about Atomist, please
 [slack]: https://join.atomist.com/ (Atomist Community Slack)
 [composition]: https://the-composition.com/ (Atomist Blog - The Composition)
 [twitter]: https://twitter.com/atomist (@atomist - Twitter)
-
-You can also check out an example of a SDM in the
-[sample-sdm][sample-sdm] repository.
-
-[sample-sdm]: https://github.com/atomist/sample-sdm (Atomist Sample Software Delivery Machine)
 
 If you are looking for a retired Atomist open source project, they can
 be found in the [atomist-attic][attic] organization.
