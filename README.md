@@ -52,7 +52,7 @@ We sincerely hope you enjoy using Atomist!
 ## Support
 
 If you need help using Atomist or have questions, the best place to
-ask is the `#support` channel in the [Atomist Community Slack][slack].
+ask is the `#help` channel in the [Atomist Community Slack][slack].
 If you have specific questions about one of the Atomist open source
 projects, e.g., you need to report a bug or would like to request a
 feature, feel free to open an issue in the repository for that
